@@ -1,0 +1,42 @@
+body {
+	font-family: 'Muli', sans-serif;
+}
+
+.center{
+	text-align: center;
+}
+
+#title {
+	font-size: 72px;
+}
+
+#logo {
+	width: 100%;
+	margin-top: 200px;
+}
+
+#randomButton button {
+	width: 250px;
+	height: 60px;
+	background: white;
+	background: #544E80;
+	color: white;
+	border-style: none;
+	letter-spacing: 1px;
+	font-size: 18px;
+	margin-top: 20px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+#randomButton button:hover {
+	box-shadow: 3px 7px 30px rgba(0, 0, 0, 0.2);
+	text-shadow: 0px 6px 15px rgba(0, 0, 0, 0.9);
+}
+
+#teaMaker {
+	font-size: 40px;
+	margin-top: 70px;
+	height: 100px;
+}
+
